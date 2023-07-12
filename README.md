@@ -1,16 +1,13 @@
-# resume_pre
+# Dart Flutter Chowk - session 2 
 
-A new Flutter project.
+Replicating UI to code.
 
-## Getting Started
+## Steps to setup the project
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Fork the project
+- Copy the link of the forked project
+- Open git in the folder you want to clone
+- 'git clone </project_url>'
+- open the project in VS Code
+- Connect a physical device or connect an emulator
+- 'Flutter run' to run the project
